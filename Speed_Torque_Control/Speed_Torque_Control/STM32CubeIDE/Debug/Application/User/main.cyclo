@@ -1,0 +1,11 @@
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/main.c:107:7:GetCurrentPositionDeg	1
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/main.c:125:9:GetCurrentPosition	1
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/main.c:141:6:MotorController_Init	1
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/main.c:146:6:MotorController_Start	1
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/main.c:151:6:MotorController_Stop	1
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/main.c:156:6:MotorController_SetMode	2
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/main.c:170:6:MotorController_SetPosition	1
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/main.c:176:6:MotorController_SetSpeedTorque	1
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/main.c:283:6:SystemClock_Config	3
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/main.c:223:5:main	23
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/main.c:759:6:Error_Handler	1

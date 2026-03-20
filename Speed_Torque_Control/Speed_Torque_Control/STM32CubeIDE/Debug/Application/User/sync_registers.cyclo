@@ -1,0 +1,5 @@
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/sync_registers.c:32:9:RI_SetRegisterGlobal	17
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/sync_registers.c:166:9:RI_SetRegisterMotor1	89
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/sync_registers.c:610:9:RI_GetRegisterGlobal	20
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/sync_registers.c:755:11:RI_GetRegisterMotor1	104
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/sync_registers.c:1342:9:RI_MovString	4

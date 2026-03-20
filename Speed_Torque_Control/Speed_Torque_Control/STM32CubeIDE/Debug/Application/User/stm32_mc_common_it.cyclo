@@ -1,0 +1,3 @@
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/stm32_mc_common_it.c:68:6:USART2_IRQHandler	14
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/stm32_mc_common_it.c:146:6:HardFault_Handler	1
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/stm32_mc_common_it.c:165:6:SysTick_Handler	3

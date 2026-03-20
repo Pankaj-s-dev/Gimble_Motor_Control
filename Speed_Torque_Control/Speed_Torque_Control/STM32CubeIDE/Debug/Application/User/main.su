@@ -1,0 +1,11 @@
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/main.c:107:7:GetCurrentPositionDeg	8	static
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/main.c:125:9:GetCurrentPosition	8	static
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/main.c:141:6:MotorController_Init	0	static
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/main.c:146:6:MotorController_Start	0	static
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/main.c:151:6:MotorController_Stop	0	static
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/main.c:156:6:MotorController_SetMode	0	static
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/main.c:170:6:MotorController_SetPosition	0	static
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/main.c:176:6:MotorController_SetSpeedTorque	0	static
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/main.c:283:6:SystemClock_Config	88	static,ignoring_inline_asm
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/main.c:223:5:main	168	static,ignoring_inline_asm
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/main.c:759:6:Error_Handler	0	static,ignoring_inline_asm

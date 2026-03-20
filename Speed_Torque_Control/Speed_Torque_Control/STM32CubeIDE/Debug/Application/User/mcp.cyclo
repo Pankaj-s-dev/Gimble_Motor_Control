@@ -1,0 +1,4 @@
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/mcp.c:54:9:RI_SetRegCommandParser	10
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/mcp.c:157:9:RI_GetRegCommandParser	5
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/mcp.c:223:6:MCP_ReceivedPacket	19
+C:/Users/panka/dev_ws/Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/Src/mcp.c:403:9:MCP_RegisterCallBack	2
