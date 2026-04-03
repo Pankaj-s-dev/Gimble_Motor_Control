@@ -1,0 +1,23 @@
+----------------------------
+Motor Controller Work Bench - Not really required as it has already been configured
+Link to the Download : https://www.st.com/en/embedded-software/x-cube-mcsdk.html
+
+open this software and open the project from the repo which I have shared -> got to cloned repo -> Gimble_Motor_Control/Speed_Torque_Control/ and open Speed_Torque_Control.stwb6
+
+you can do the configuration but mostly u will not need to do if u use my repo.
+
+
+----------------------------
+Download STM32 Cube IDE - to make the change in the code for the motor and upload it to the STM Board
+Link to the STM32 Cube IDE : https://www.st.com/en/development-tools/stm32cubeide.html
+
+Open the project from the repo : go to Gimble_Motor_Control/Speed_Torque_Control/Speed_Torque_Control/
+
+and open the project and there u go..
+
+---------------------------
+Download the GUI to run the motor and see more about the motor state
+
+Link to the Motor Plotter : https://www.st.com/en/embedded-software/x-cube-mcsdk.html
+
+once u open the GUI select the COM Port to which the STM board is connected and select the bud rate as : 115200 and connect the software to the stm Board.
